@@ -1,0 +1,21 @@
+{
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-03-15 17:44:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-15 17:44:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2024-03-15 17:44:45 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3700
+}
