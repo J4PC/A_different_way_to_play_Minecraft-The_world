@@ -1,5 +1,5 @@
 ![Banner.](https://yt3.googleusercontent.com/Z0K0JwLxN4FHCaoOz33fh1ZS7kAJdJm-BTxxzxnIE0LwXQkZd_tEK7lxBqaEuk6wpQZtTP311kc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-# "A different way to play Minecraft"-series world download
+# [A different way to play Minecraft](https://www.youtube.com/@TheTrustToday) - World download
 Welcome on the official world download for the "A different way to play Minecraft"-series. Here you can download the world and explore everything it has to offer for yourself.
 
 This isn't the exact world we play on, seeing as this is a pruned version with remote and unimportent chunks removed to drastically lower the file size.
@@ -8,9 +8,9 @@ The world was created on 1.20.1 but is currently updated to the newest version a
 Some things, like redstone contraptions will probably break in different versions.
 
 > [!TIP]
-> To download the world just click the this
+> To download the world just click this
 >
->   [Download the repository as ZIP](https://github.com/J4PC/A_different_way_to_play_Minecraft-The_world/archive/refs/heads/main.zip)
+>   [Download the repository as ZIP](https://github.com/J4PC/A_different_way_to_play_Minecraft-world_download/archive/refs/heads/main.zip)
 >
 > link or follow these steps 
 > 1. Go under Code and press the Download Zip button
