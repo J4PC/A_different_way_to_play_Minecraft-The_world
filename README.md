@@ -1,5 +1,6 @@
 ![Banner.](https://yt3.googleusercontent.com/Z0K0JwLxN4FHCaoOz33fh1ZS7kAJdJm-BTxxzxnIE0LwXQkZd_tEK7lxBqaEuk6wpQZtTP311kc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-# Welcome on the official world download for the "A different way to play Minecraft"-series. Here you can download the world and explore everything it has to offer for yourself.
+# "A different way to play Minecraft"-series world download
+Welcome on the official world download for the "A different way to play Minecraft"-series. Here you can download the world and explore everything it has to offer for yourself.
 
 This isn't the exact world we play on, seeing as this is a pruned version with remote and unimportent chunks removed to drastically lower the file size.
 
@@ -11,3 +12,5 @@ Some things, like redstone contraptions will probably break in different version
 > 1. Go under Code and press the Download Zip button
 > 2. Extract the files from the zip archive
 > 3. Put the folder that contains multiple files inside into your Minecraft saves folder (probably at C:\Users\[Your Desktop name]\AppData\Roaming\.minecraft\saves)
+> Or click the following link
+> [Download the repository as ZIP](https://github.com/USERNAME/REPOSITORY-NAME/archive/refs/heads/main.zip)
