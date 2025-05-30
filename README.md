@@ -8,12 +8,8 @@ The world was created on 1.20.1 but is currently updated to the newest version a
 Some things, like redstone contraptions will probably break in different versions.
 
 > [!TIP]
-> To download the world just click this
->
->   [Download the repository as ZIP](https://github.com/J4PC/A_different_way_to_play_Minecraft-world_download/archive/refs/heads/main.zip)
->
-> link or follow these steps 
-> 1. Go under Code and press the Download Zip button
+> To download the world just follow these steps 
+> 1. [Download the repository as ZIP](https://github.com/J4PC/A_different_way_to_play_Minecraft-world_download/archive/refs/heads/main.zip)
 > 2. Extract the files from the zip archive
 > 3. Put the folder that contains multiple files inside into your Minecraft saves folder (probably at C:\Users\[Your Desktop name]\AppData\Roaming\.minecraft\saves)
 > Or click the following link
