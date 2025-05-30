@@ -1,3 +1,4 @@
+![Banner.](https://yt3.googleusercontent.com/Z0K0JwLxN4FHCaoOz33fh1ZS7kAJdJm-BTxxzxnIE0LwXQkZd_tEK7lxBqaEuk6wpQZtTP311kc=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 Welcome on the official world download for the "A different way to play Minecraft"-series. Here you can download the world and explore everything it has to offer for yourself.
 
 To download the world just follow these steps 
