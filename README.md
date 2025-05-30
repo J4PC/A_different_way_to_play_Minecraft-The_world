@@ -2,7 +2,7 @@
 Welcome on the official world download for the "A different way to play Minecraft"-series. Here you can download the world and explore everything it has to offer for yourself.
 
 
-> [!IMPORTANT]
+> [!TIP]
 > To download the world just follow these steps 
 > 1. Go under Code and press the Download Zip button
 > 2. Extract the files from the zip archive
