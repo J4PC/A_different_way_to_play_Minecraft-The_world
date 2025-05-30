@@ -6,8 +6,7 @@ This isn't the exact world we play on, seeing as this is a pruned version with r
 
 The world was created on 1.20.1 but is currently updated to the newest version at this time (1.21.5).
 Some things, like redstone contraptions will probably break in different versions.
-\
-
+<br\>
 > [!TIP]
 > If you don't know how to download a Minecraft world just follow these steps 
 > 1. [Download the repository as ZIP](https://github.com/J4PC/A_different_way_to_play_Minecraft-world_download/archive/refs/heads/main.zip)
